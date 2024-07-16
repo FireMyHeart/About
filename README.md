@@ -10,7 +10,9 @@
 
 1. ### Дипломная работа по автотестированию. Продукт: Читай-город
    **[https://github.com/FireMyHeart/Final_work_skypro/](https://github.com/FireMyHeart/AutomationFinal)**
+   
    https://www.notion.so/4-36a4580e10144017a42cc1742f83543d
+   
    Составлена коллекиция в Postman, написаны для нее автотесты API, а также написаны UI-автотесты. 
 
 1. ### Дипломная работа по ручному тестированию. Продукт: Яндекс.Музыка
